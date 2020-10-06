@@ -1,2 +1,4 @@
 README.md 
-Hummus Project GC
+Recipe Guide Project 
+Google Classroom
+Quick Hummus Recipe
